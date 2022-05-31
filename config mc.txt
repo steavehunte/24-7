@@ -1,0 +1,5 @@
+{
+	"ip":"SchoolSmp2456.aternos.me",
+	"port": "51281",
+	"name": "afkbot"
+}
